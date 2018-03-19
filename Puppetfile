@@ -11,6 +11,6 @@ mod 'puppet-webserver',
   :git => 'https://github.com/4linuxdevops/puppet-webserver.git',
   :branch => 'production'
 
-#mod 'puppet-balancer',
-  #:git => 'https://github.com/4linuxdevops/puppet-balancer.git',
-  #:branch => 'production'
+mod 'puppet-balancer',
+  :git => 'https://github.com/4linuxdevops/puppet-balancer.git',
+  :branch => 'production'
