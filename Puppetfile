@@ -4,6 +4,7 @@
 forge "https://forgeapi.puppetlabs.com";
 
 mod '4linuxdevops-confsbase'
+mod 'puppetlabs-motd'
 #mod '4linuxdevops-memcached'
 #mod '4linuxdevops-mysqlserver'
 
